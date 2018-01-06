@@ -1,0 +1,6 @@
+framework module Pods_strokesGained {
+  umbrella header "Pods-strokesGained-umbrella.h"
+
+  export *
+  module * { export * }
+}
